@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.~lock.*
+
+# 大体积手写笔记文件（仓库内用网盘链接代替）
+*.pdf
+*.goodnotes
+
+# 压缩包
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# 临时文件 / 日志
+*.tmp
+*.temp
+*.log
