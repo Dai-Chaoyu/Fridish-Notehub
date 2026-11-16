@@ -1,0 +1,9 @@
+（因为文件太大了 Github 传不了，所以给出网盘链接）
+这是高数+线代+概统的手写笔记，由 Goodnotes 5 纯手写而成，开源了 .goodnote 源文件和我手动导出的 PDF 版本。
+百度网盘：
+链接: https://pan.baidu.com/s/19RZqf5vL8Kjj1T0USCQ2Vg?pwd=5pw7 
+提取码: 5pw7
+
+123 云盘：
+链接：https://1838711381.share.123pan.cn/123pan/oedGTd-WAEKh?pwd=p8Bc#
+提取码：p8Bc
