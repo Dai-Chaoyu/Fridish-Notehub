@@ -46,13 +46,16 @@
 
 这三门是拿 GoodNotes 5 纯手写的，PDF 和 `.goodnotes` 源文件都放网盘了（文件太大，GitHub 传不上去）：
 
-- 百度网盘：`https://pan.baidu.com/s/19RZqf5vL8Kjj1T0USCQ2Vg?pwd=5pw7`，提取码 `5pw7`
-- 123 云盘：`https://1838711381.share.123pan.cn/123pan/oedGTd-WAEKh?pwd=p8Bc#`，提取码 `p8Bc`
+- 百度网盘：`https://pan.baidu.com/s/19RZqf5vL8Kjj1T0USCQ2Vg?pwd=5pw7` ，提取码 `5pw7`
+- 123 云盘：`https://1838711381.share.123pan.cn/123pan/oedGTd-WAEKh?pwd=p8Bc#` ，提取码 `p8Bc`
 
 ## 几点说明
 
 - Typora、Obsidian、VS Code 都能看，HTML 双击即可；笔记里有 LaTeX 公式和 mermaid 流程图，不支持的预览器会看到源码。
 - 章节编号有跳跃（程序设计 II、数据结构都没有第 8 章），照现有的编号看就行
+- 当前部分图片引用自老师的课件，侵删
+- 不要问为啥没有离散数学的笔记……大二上已经有数据结构、计组和程设 I 了，已经没时间搓第四科笔记了（
+- QQ 群里面有一些初高中时期的笔记，如有家教 or 亲戚需求可以自取，大学时期的笔记懒得传了，请以本仓库为准～
 
 ## 怎么看
 
