@@ -60,4 +60,4 @@
 git clone https://github.com/Dai-Chaoyu/Fridish-Notehub.git
 ```
 
-祝期末顺利，考的都是见过的题 🍀
+祝学业顺利、考试顺利，做的都会、蒙的全对！
