@@ -87,7 +87,7 @@
             - I/O 设备将数据发送至 I/O 接口，同时向接口发送 “Strobe” 信号，告知 “数据已送达接口”
             - CPU 从接口取走数据后，接口向 I/O 设备发送 “Ready” 信号，告知 “数据已被取走，可发送下一组数据”
 
-            ![image-20251222153700438](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251222153700438.png)
+            ![image-20251222153700438](计算机组成原理期末预复习指北.assets/image-20251222153700438.png)
 
     4. ##### I/O 设备与主机的连接方式
 
@@ -95,7 +95,7 @@
 
         1. 辐射式连接（分散连接）
 
-            ![image-20251223082035325](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251223082035325.png)
+            ![image-20251223082035325](计算机组成原理期末预复习指北.assets/image-20251223082035325.png)
 
         - 结构：每台 I/O 设备单独配备一套控制线路与信号线，直接与主机的专属接口连接（即 “一台设备对应一条专用链路”）
         - 特点：
@@ -105,7 +105,7 @@
 
         2. 总线连接
 
-            ![image-20251222154106400](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251222154106400.png)
+            ![image-20251222154106400](计算机组成原理期末预复习指北.assets/image-20251222154106400.png)
 
         - 结构：主机与所有 I/O 设备通过**一组共享的总线线路**连接，I/O 设备需通过标准接口接入总线（即 “所有设备共享一条公共通信干线”）
         - 核心概念：总线是计算机系统中共享的通信干线，可同时传输数据、地址、控制信号（如 PC 中的 PCI 总线、通用的 USB 总线）

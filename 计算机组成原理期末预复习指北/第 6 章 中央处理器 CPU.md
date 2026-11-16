@@ -9,7 +9,7 @@
     | 数据加工 | 对数据进行算术运算和逻辑运算     | ALU、寄存器                                       |
     | 处理中断 | 处理异常情况和特殊请求           | 中断系统                                          |
 
-    ![image-20251215142916917](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251215142916917.png)
+    ![image-20251215142916917](计算机组成原理期末预复习指北.assets/image-20251215142916917.png)
 
 2. #### 指令周期
 
@@ -76,7 +76,7 @@
                 
                     在简单设计中，这个“加 n ”的操作（$n=1, 2, 4$ 等）会由控制单元触发，在一个专门的加法器或 ALU 通路中完成，并将结果写回 PC
 
-            ![image-20251215150152554](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251215150152554.png)
+            ![image-20251215150152554](计算机组成原理期末预复习指北.assets/image-20251215150152554.png)
 
         - 间址周期的数据流
 
@@ -110,7 +110,7 @@
 
                         IR可能保持不变，控制逻辑记住这个地址
 
-            ![image-20251215152439596](/Users/daichaoyu/Library/Application Support/typora-user-images/image-20251215152439596.png)
+            ![image-20251215152439596](计算机组成原理期末预复习指北.assets/image-20251215152439596.png)
 
         - 中断周期的数据流
 
